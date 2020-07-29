@@ -1,0 +1,17 @@
+$orange: #ff712a;
+$white: #FFFFFF;
+$yellow: #ffea00;
+
+@mixin rale {
+	font-family: 'Raleway', sans-serif;
+}
+@mixin fred {
+	font-family: 'Fredoka One', cursive;
+}
+@mixin ser {
+	font-family: 'PT Serif', serif;
+}
+@mixin quick {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 700;
+}
